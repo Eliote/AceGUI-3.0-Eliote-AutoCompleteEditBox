@@ -1,0 +1,6 @@
+## Interface: 90001
+## Title: AceGUI-3.0-Eliote-AutoCompleteEditBox
+## Notes: Widget for AceGUI to use blizzards AutoComplete
+## Author: Eliote
+## Version: @project-version@
+## Dependencies: Ace3
